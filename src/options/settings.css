@@ -1,0 +1,38 @@
+body {
+    background-image: url('http://www.free-icons-download.net/images/yellow-open-lock-icon-30700.png');
+    font-family: Lobster;
+    background-color:rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align:center;
+    font-size:10em;
+}
+
+h2 {
+    text-align:center;
+    font-size:8em;
+}
+
+button {
+    margin:auto;
+    display: block;
+    height: 50%;
+    width: 25%;
+    border: 1px solid blue;
+    border-radius: 5px;
+    font-size: 4em;
+}
+
+button:hover {
+    background: blue;
+    color: white;
+}
+
+input {
+    margin: auto;
+    display: block;
+    text-align: center;
+    height: 2rem;
+    width: 20%;
+}
